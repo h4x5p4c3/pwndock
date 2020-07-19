@@ -11,15 +11,15 @@ pwndock-32 - x86
 
 armdock - arm
 
-#Usage 
+# Usage 
 
 Run *start.sh* in specific folders to build the images and host them.
 
-#TD;LR
+# TD;LR
 
 Add *mips* Dockerfile
 
-#credits 
+# credits 
 
 arm challenge - https://github.com/hkraw/
 
