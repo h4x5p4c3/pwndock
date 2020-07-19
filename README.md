@@ -25,4 +25,4 @@ arm challenge - https://github.com/hkraw/
 
 #### If there are any issues feel free to contact me :)
 
-Discord *h4x5p4c3#7079*
+Discord - *h4x5p4c3#7079*
