@@ -1,0 +1,10 @@
+version: '2'
+services:
+  arm:
+    build:
+      context: .
+    working_dir: /home/ctf
+    container_name: pwn3
+    ports:
+      - "7777:9999"
+    entrypoint: "/usr/sbin/xinetd -dontfork"
