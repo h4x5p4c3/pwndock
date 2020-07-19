@@ -15,6 +15,8 @@ armdock - arm
 
 Run *start.sh* in specific folders to build the images and host them.
 
+You can change ports in specific docker-compose.yml file 
+
 # TD;LR
 
 Add *mips* Dockerfile
