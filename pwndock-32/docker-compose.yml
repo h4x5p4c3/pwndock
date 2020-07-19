@@ -3,5 +3,5 @@ services:
   test:
     build: test1/
     ports:
-      - "4444:9999"
+      - "3333:9999"
   
