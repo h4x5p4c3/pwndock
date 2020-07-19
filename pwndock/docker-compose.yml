@@ -1,7 +1,7 @@
 version: '3'
 services:
   test:
-    build: test1/
+    build: pwn/
     ports:
       - "4444:9999"
   
