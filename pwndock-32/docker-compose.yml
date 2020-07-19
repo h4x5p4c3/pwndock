@@ -1,6 +1,6 @@
 version: '3'
 services:
-  test:
+  dock-32:
     build: pwn/
     ports:
       - "3333:9999"

@@ -1,6 +1,6 @@
 version: '3'
 services:
-  test:
+  dock:
     build: pwn/
     ports:
       - "4444:9999"
