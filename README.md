@@ -5,7 +5,7 @@ All dockers run on ubuntu 18:04
 
 # Architectures
 
-pwndock - x64
+pwndock - x86-64
 
 pwndock-32 - x86
 
